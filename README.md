@@ -2,7 +2,7 @@
 
 A simple calculator library in Python.
 
-## Fuctions
+## Functions
 
 - `add(a, b)` — returns a + b
 - `subtract(a, b)` — returns a - b
